@@ -111,7 +111,7 @@ def changing_alan
 end
 
 def adding_to_dennis
-  #
+  #Add 'Assembly' to Dennis Ritchie's languages, returning the newly-added-to-hash
 	programmer_hash = 
  		{
         :grace_hopper => {
